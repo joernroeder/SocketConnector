@@ -9,7 +9,7 @@
 ### Why
 
 Once, someone said: _"There is an app for that!"_ No, not really!! Not an API or a Webservice, no XML, no JSON. You have to do it on your own…  
-User-Scripts / Browser-Extensions are perfect for this. Imagine, you could add your fancy jQuery to any page you want, fetch your Data and send it down the short path via [Socket.IO](http://socket.io/) and [nodejs](http://nodejs.org). But how can you connect both sides?  
+User-Scripts / Browser-Extensions are perfect for this. Imagine, you could add your fancy jQuery-Plugin to any page you want, fetch your Data and send it down the short path via [Socket.IO](http://socket.io/) and [nodejs](http://nodejs.org). But how can you connect both sides?  
 Just give it a try!
 
 
