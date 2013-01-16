@@ -4,7 +4,7 @@
 	    _\ \ / _ \/ __//  '_// -_)/ __// /__ / _ \ / _ \ / _ \/ -_)/ __// __// _ \ / __/
 	   /___/ \___/\__//_/\_\ \__/ \__/ \___/ \___//_//_//_//_/\__/ \__/ \__/ \___//_/   
 	
-	   Injects a Socket.io-Connection to your favorite website.
+	   Injects a Socket.IO-Connection to your favorite website.
 
 ### Why
 
